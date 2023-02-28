@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmoinfaisal" alt="muhammadmoinfaisal" /></a> </p>
 
+- 💬 Talking about **Machine Learning, Deep Learning and Computer Vision**
+- 
 - 👨‍💻 YouTube Channel [https://www.youtube.com/channel/UC--6PuiEdiQY8nasgNluSOA](https://www.youtube.com/channel/UC--6PuiEdiQY8nasgNluSOA)
 
 - 📝 I regularly write articles on [https://medium.com/@m.moinfaisal](https://medium.com/@m.moinfaisal)
-
-- 💬 Talking about **Machine Learning, Deep Learning and Computer Vision**
 
 - 📫 How to reach me **m.moinfaisal@gmail.com**
 
