@@ -6,9 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmoinfaisal" alt="muhammadmoinfaisal" /></a> </p>
 
 - 💬 Talking about **Machine Learning, Deep Learning and Computer Vision**
+
 - 📷 YouTube Channel [https://www.youtube.com/channel/UC--6PuiEdiQY8nasgNluSOA](https://www.youtube.com/channel/UC--6PuiEdiQY8nasgNluSOA)
-- 👨‍💻 YOLOv8 Crash Course 84% OFF (13$): https://www.udemy.com/course/yolov8-the-ultimate-course-for-object-detection-tracking/?couponCode=YOLOV8CRASHCOURSE
-- 👨‍💻 YOLOv7 Crash Course 85% OFF (13$): https://www.udemy.com/course/yolov7-object-detection-tracking-with-web-app-development/?couponCode=YOLOV7CRASHCOURSE
 
 - 📝 I regularly write articles on [https://medium.com/@m.moinfaisal](https://medium.com/@m.moinfaisal)
 
